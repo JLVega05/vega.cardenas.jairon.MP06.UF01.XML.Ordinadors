@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="22.0.2" class="java.beans.XMLDecoder">
+ <object class="vega.cardenas.jairon.MP06.UF01.XML.Ordinadors.Ordinador">
+  <void property="discDur">
+   <int>1000</int>
+  </void>
+  <void property="marca">
+   <string>Acer</string>
+  </void>
+  <void property="memoria">
+   <int>16</int>
+  </void>
+  <void property="model">
+   <string>Nitro N-50</string>
+  </void>
+  <void property="processador">
+   <string>Intel</string>
+  </void>
+ </object>
+</java>
